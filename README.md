@@ -13,8 +13,10 @@ I am a Computer Science Student at Pusan National University with strong knowled
 
 ## Projects 🛠️
 
-- **Project Name**: A brief description of the project and the technologies used 🚀
-- **Project Name**: A brief description of the project and the technologies used 🚀
+- **Goodread Clone**: I used tools Python, Django, BootStrap, DRF, PostgreSQL, RabbitMQ, Celery, Email-System, and more🚀
+- **Personal Blog**: I used tools Python, Django, PostgreSQL, Email-System, and more 🚀
+- **Social-Media**: I am working on a Social-Media project using Django🚀
+
 
 ## Education 🎓
 - Computer Science - Pusan National University 💻
