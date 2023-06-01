@@ -15,7 +15,7 @@ I am a Computer Science Student at Pusan National University with strong knowled
 
 - **Goodread Clone**: I used tools Python, Django, BootStrap, DRF, PostgreSQL, RabbitMQ, Celery, Email-System, and more🚀
 - **Personal Blog**: I used tools Python, Django, PostgreSQL, Email-System, and more 🚀
-- **Social-Media**: I have been working on a Social-Media project using Django🚀
+- **Social-Media**: I used Django, Postgresql, Docker, Redis, Front-End and other tools to implement this project🚀
 
 
 ## Education 🎓
