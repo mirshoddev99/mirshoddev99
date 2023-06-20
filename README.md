@@ -8,7 +8,7 @@ I am a Computer Science Student at Pusan National University with strong knowled
 - Knowledge of database management using MySQL and PostgreSQL 🗄️
 - Familiarity with data structures and algorithms 📊
 - Experience working with JSON, API, Socket Programming and Web Scraping 🔍🌐
-- Familiarity with C programming 💻
+- Familiarity with C/C++ programming 💻
 - Experience with Unit Testing 🧪
 
 ## Projects 🛠️
