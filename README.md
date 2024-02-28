@@ -1,4 +1,4 @@
-# Python Developer 🐍🚀
+# Python and Spring Developer 🐍🚀
 
 I am a Computer Science Student at Pusan National University with strong knowledge in Python and Django. I have experience in Front-end, database, Data Structures and Algorithms, JSON, API, Web Scraping, C programming, Unit Testing and more.
 
